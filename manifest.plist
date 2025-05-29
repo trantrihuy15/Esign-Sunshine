@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key> https://github.com/trantrihuy15/Esign-Sunshine/raw/refs/heads/main/Esign%20Sunshine%20_5.0.2_1748499131.ipa </key>
+                    <string>https://github.com/username/repository/raw/main/path/to/your_app.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key> p3.xyz.yyyue.esign </key>
+                <string>com.yourcompany.appname</string>
+                <key>5.0.2</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key> Esign Sunshine </key>
+                <string>Your App Name</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
